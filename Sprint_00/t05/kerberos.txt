@@ -1,0 +1,4 @@
+klist
+kinit vponomaren@stud.khpi.ucode-connect.study
+kdestroy -A
+
